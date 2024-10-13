@@ -17,9 +17,15 @@ Source Data: Wikimedia/Wikipedia \
 ## Pageviews API Documentation
 [Documentation](https://doc.wikimedia.org/generated-data-platform/aqs/analytics-api/reference/page-views.html)
 
+## Intermediate File
+1. [lists.json](lists.json): records `Article Title`, `Article Revision ID`, and `Article Score` to avoid re-running the Wikimedia API
+
 ## Output Files
-1. [wp_countries-no_match.txt](wp_countries-no_match.txt)
-2. [wp_politicians_by_country.csv](wp_politicians_by_country.csv)
+1. [wp_countries-no_match.txt](wp_countries-no_match.txt): countries with no match in either politician and population csv files.
+2. [wp_politicians_by_country.csv](wp_politicians_by_country.csv): merged politician articles with population data in the following format
+```
+| country | region | population | article_title | revision_id | article_quality |
+```
 
 ## Embedded Result Tables
 1. **Top 10 countries by coverage**: The 10 countries with the highest total articles per capita (in descending order)
