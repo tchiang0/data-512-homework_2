@@ -1,0 +1,70 @@
+WORLD
+AFRICA
+NORTHERN AFRICA
+Western Sahara
+WESTERN AFRICA
+GuineaBissau
+EASTERN AFRICA
+Mauritius
+Mayotte
+Reunion
+MIDDLE AFRICA
+Sao Tome and Principe
+SOUTHERN AFRICA
+eSwatini
+NORTHERN AMERICA
+Canada
+United States
+LATIN AMERICA AND THE CARIBBEAN
+CENTRAL AMERICA
+Mexico
+CARIBBEAN
+Curacao
+Dominica
+Guadeloupe
+Jamaica
+Martinique
+Puerto Rico
+SOUTH AMERICA
+French Guiana
+Suriname
+ASIA
+WESTERN ASIA
+Georgia
+CENTRAL ASIA
+SOUTH ASIA
+SOUTHEAST ASIA
+Brunei
+Philippines
+EAST ASIA
+China (Hong Kong SAR)
+China (Macao SAR)
+Korea (North)
+Korea (South)
+EUROPE
+NORTHERN EUROPE
+Denmark
+Iceland
+Ireland
+United Kingdom
+WESTERN EUROPE
+Liechtenstein
+Netherlands
+EASTERN EUROPE
+Romania
+SOUTHERN EUROPE
+Andorra
+San Marino
+OCEANIA
+Australia
+Fiji
+French Polynesia
+Guam
+Kiribati
+Nauru
+New Caledonia
+New Zealand
+Palau
+Guinea-Bissau
+Korean
+Korea, South
